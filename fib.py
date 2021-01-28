@@ -1,6 +1,6 @@
 # Author: Paul Quaife
-# Date: 1/19/2021
-# Description: Asks for numbers, then lists the min and max.
+# Date: 1/27/2021
+# Description: Fib Sequence
 
 def fib(n):
     if n <= 2:
