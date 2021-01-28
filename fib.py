@@ -3,6 +3,7 @@
 # Description: Fib Sequence
 
 def fib(n):
+    """Takes a positive integer and returns the number at that position of the Fibonacci sequence."""
     if n <= 2:
         return 1
     else:
